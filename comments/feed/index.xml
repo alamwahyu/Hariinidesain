@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentar untuk Hari Ini Desain	</title>
+	<atom:link href="http://localhost/latihan/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alamwahyu.github.io/Hariinidesain</link>
+	<description>Moto situs Anda bisa diletakkan di sini</description>
+	<lastBuildDate>Fri, 29 Jan 2021 07:47:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Komentar di Eigerindo Web Design oleh Seorang Komentator WordPress		</title>
+		<link>https://alamwahyu.github.io/Hariinidesain/eiger/#comment-1</link>
+
+		<dc:creator><![CDATA[Seorang Komentator WordPress]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 18:16:22 +0000</pubDate>
+		<guid isPermaLink="false">https://alamwahyu.github.io/Hariinidesain/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hai, ini sebuah komentar.
+Untuk mulai memoderasi, mengedit, dan menghapus komentar, silakan kunjungi laman Komentar di dasbor.
+Avatar komentator diambil dari &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hai, ini sebuah komentar.<br />
+Untuk mulai memoderasi, mengedit, dan menghapus komentar, silakan kunjungi laman Komentar di dasbor.<br />
+Avatar komentator diambil dari <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
